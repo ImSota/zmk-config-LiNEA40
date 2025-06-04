@@ -139,7 +139,7 @@
 &trans  &trans     &trans     &trans     &trans                    &trans  &trans    &trans     &trans     &trans
 &trans  &mkp RCLK  &mkp MCLK  &mkp LCLK  &trans                    &trans  &mkp LCLK &mkp MCLK  &mkp RCLK  &trans
 &trans  &trans     &mkp MB4   &mkp MB5   &trans                    &trans  &mkp MB4  &mkp MB5   &trans     &trans
-&trans  &trans     &trans     &trans     &trans  &trans    &trans  &trans            &trans     &trans   none
+&trans  &trans     &trans     &trans     &trans  &trans    &trans  &trans            &trans     &trans     &trans
             >;
 
             sensor-bindings = <&mouse_scrl SCRL_DOWN SCRL_UP>;
